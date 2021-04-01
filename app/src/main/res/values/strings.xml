@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Ola mundo</string>
+    <string name="mensagem_boas_vindas">Olá, turma de PDM</string>
+    <string name="clique_aqui">Clique aqui</string>
+    <string name="clicou">Você clicou no botão</string>
+</resources>
